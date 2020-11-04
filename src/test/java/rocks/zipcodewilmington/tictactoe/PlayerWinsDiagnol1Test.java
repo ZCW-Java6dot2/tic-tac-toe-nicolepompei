@@ -17,7 +17,7 @@ public class PlayerWinsDiagnol1Test {
         this.board = new Board(new Character[][]{
                 {'O', ' ', 'X'},
                 {' ', 'O', 'X'},
-                {' ', ' ', 'O'}
+                {' ', ' ', 'O'},
         });
     }
 
